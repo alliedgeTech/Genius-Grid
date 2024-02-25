@@ -216,7 +216,7 @@ ul {
 img {
   vertical-align: middle;
   border: 1;
-  width: 20%;
+  width: 16%;
 }
 
 a,
@@ -270,7 +270,7 @@ a h4:hover {
   padding-bottom: 40px;
 }
 .section-title {
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 .bg-cover {
